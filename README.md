@@ -1,2 +1,2 @@
-# toetactic
+# tictactoe
 My first repository
